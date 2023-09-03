@@ -1,0 +1,3 @@
+0.1.0
+
+Lancement de l'application en phase de bêta.

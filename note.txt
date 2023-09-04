@@ -1,3 +1,6 @@
-0.1.0
+0.1.1
 
-Lancement de l'application en phase de bêta.
+Correctifs :
+- Correction de l'automatisation qui fonctionnait aléatoirement.
+- Disparition du message d'ajout d'application dans la liste qui persistait.
+- Les programmes possédants des espaces dans leur nom étaient fractionnés en plusieurs partis.

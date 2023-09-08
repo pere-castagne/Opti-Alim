@@ -1,6 +1,13 @@
+0.1.2
+
+Correctif :
+- L'optimisation automatique a été améliorée suite à des problèmes de détection de certain programme non reconnu.
+
+----------------------------------------
+
 0.1.1
 
 Correctifs :
-- Correction de l'automatisation qui fonctionnait aléatoirement.
+- Correction de l'automatisation qui fonctionnait aleatoirement.
 - Disparition du message d'ajout d'application dans la liste qui persistait.
-- Les programmes possédants des espaces dans leur nom étaient fractionnés en plusieurs partis.
+- Les programmes pocèdant des espaces dans leur nom était fractionné en plusieurs partis.

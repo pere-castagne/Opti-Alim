@@ -1,8 +1,7 @@
-0.2.0
+0.3.0
+14/09/2023
 
 Nouveaux :
-- Recherche de mise à jour.
-- Possibiliter de mettre à jour depuis le programme.
-
-Correctif :
-- Lorsqu'il manque le fichier "data" dans le programme, celui-ci n'impose pas d'erreur.
+- Bouton de paramètre est disponible.
+- Il est possible de modifier la langue d'Opti Alim vers Français ou Anglais depuis les paramètres.
+- Il est possible de modifier le thème depuis les paramètres.

@@ -1,7 +1,7 @@
 ###################################################################
 ###### File for language : English
 ###### For Opti Alim
-###### v 0.1.0
+###### v 0.3.0
 ###### by Pere Castagne
 ###################################################################
 
@@ -29,6 +29,9 @@ lg_add_failed = 'The addition was a failure...'
 lg_add_app = 'Add a program.'
 lg_import_app = 'Import'
 lg_show_list = 'Show list'
+
+# Software List Page
+lg_list_title = 'Managing the program list'
 
 # Mise à jour
 lg_maj_error = 'Update error'
@@ -64,3 +67,6 @@ We advise you to carry out the Opti Alim repair.'''
 lg_setting = 'Setting'
 lg_setting_lang = 'Language :'
 lg_setting_theme = 'Theme :'
+
+# Autre
+lg_component = 'Component Optimization :'

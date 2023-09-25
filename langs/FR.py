@@ -1,7 +1,7 @@
 ###################################################################
 ###### Fichier pour la langue : Français
 ###### Pour Opti Alim
-###### v 0.1.0
+###### v 0.3.0
 ###### by Pere Castagne
 ###################################################################
 
@@ -29,6 +29,9 @@ lg_add_failed = "L'ajout a été un échec..."
 lg_add_app = 'Ajouter un programme.'
 lg_import_app = 'Importer'
 lg_show_list = 'Afficher la liste'
+
+# Page de la liste de logiciel
+lg_list_title = 'Gestion de la liste des programmes'
 
 # Mise à jour
 lg_maj_error1 = 'Erreur de mise à jour'
@@ -64,3 +67,6 @@ Nous vous conseillons d'effectuer la réparation d'Opti Alim.'''
 lg_setting = 'Paramètre'
 lg_setting_lang = 'Langue :'
 lg_setting_theme = 'Thème :'
+
+# Autre
+lg_component = 'Optimisation des composants :'

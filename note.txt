@@ -1,7 +1,10 @@
-0.3.0
-14/09/2023
+0.4.0
+25/09/2023
 
 Nouveaux :
-- Bouton de paramètre est disponible.
-- Il est possible de modifier la langue d'Opti Alim vers Français ou Anglais depuis les paramètres.
-- Il est possible de modifier le thème depuis les paramètres.
+- Une zone de texte a été implémentée pour aider à l'ajout d'un programme lorsque l'importation ne fonctionne pas.
+- L'alimentation peut être optimisée en fixant une limite du CPU et de la RAM.
+- Opti Alim peut être installée sur le système Windows.
+
+Correctif :
+- Le fichier le manque du fichier "data" pouvait engendrer un crash du programme.
